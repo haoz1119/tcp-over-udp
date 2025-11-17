@@ -1,5 +1,10 @@
 # Reliable Transport Protocol Implementation
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Java](https://img.shields.io/badge/Java-8+-orange.svg)](https://www.java.com)
+[![Protocol](https://img.shields.io/badge/Protocol-TCP%20over%20UDP-blue.svg)]()
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+
 A fully-featured TCP-like reliable transport protocol implementation in Java, built from scratch over UDP. This project demonstrates low-level network programming, protocol design, and concurrent systems implementation.
 
 ## Overview
